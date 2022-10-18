@@ -15,7 +15,7 @@ int ExponentiationNumber(int numberA, int numberB)
   {
     result = result * numberA;
   }
-    // int result = Math.Pow(numberA, numberB);
+    
     return result;
 }
 

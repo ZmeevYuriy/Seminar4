@@ -14,7 +14,7 @@ int SumNumber(int num)
       num = num / 10;
     }
    return result;
-  }
+}
 
 int sumNumber = SumNumber(num);
 Console.WriteLine("Сумма цифр в числе: " + sumNumber);
